@@ -1,5 +1,16 @@
-### Hi there 👋
+# Adrian Hurtado Ortiz
+## @soyadrianhurtado
+##Hello, world!✌ thanks for being here
 
+📍Here you will find my projects and contributions
+
+📍I'm very interested in Web3, I'm lookinh for projects to contribute
+
+## Developer = [**FullStack** | **Mobile** | **Web3**] 
+**4 years experience** | #JavaScript #TypeScript #React #ReactNative #ETH #Web3 #NestJS #Dreamer
+
+### Profesional Networks
+[LinkedIn](https://www.example.com](https://www.linkedin.com/in/adrian-fernando-hurtado-ortiz-3937b5194/)https://www.linkedin.com/in/adrian-fernando-hurtado-ortiz-3937b5194/)
 <!--
 **soyadrianhurtado/soyadrianhurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
