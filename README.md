@@ -4,7 +4,7 @@
 
 📍Here you will find my projects and contributions
 
-📍I'm very interested in Web3, I'm lookinh for projects to contribute
+📍I'm very interested in Web3, I'm looking for projects to contribute
 
 ## Developer = [**FullStack** | **Mobile** | **Web3**] 
 **4 years experience** | #JavaScript #TypeScript #React #ReactNative #ETH #Web3 #NestJS #Dreamer
